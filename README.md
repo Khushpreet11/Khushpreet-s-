@@ -47,6 +47,4 @@ Recommendations for optimized insurance coverage and risk assessment
 
 
 
-EDA Taxi Analysis: [Your GitHub Link]
 
-Farmers Insurance Analysis: [Your GitHub Link]
