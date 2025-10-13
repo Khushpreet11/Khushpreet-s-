@@ -25,24 +25,3 @@ Explore and analyze taxi trip data to uncover trends and insights.
 
 ---
 
-## 🌾 2. Farmers Insurance Analysis
-
-**Objective:**  
-Analyze farmers insurance data to identify high-risk areas and trends.
-
-**Tools Used:**  
-- Python  
-- SQL  
-- Excel  
-
-**Key Steps:**  
-- Data extraction using SQL  
-- Data cleaning and transformation in Python  
-- EDA & visualization of claim patterns, policy types, and risk factors  
-
-**Insights / Findings:**  
-- Regions with highest claim rates identified  
-- Correlation between crop type and claim frequency analyzed  
-- Recommendations for optimized insurance coverage and risk assessment  
-
----
